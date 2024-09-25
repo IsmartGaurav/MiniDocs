@@ -47,7 +47,7 @@ This project is [MIT](link-to-license-file) licensed.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Gaurav Sharma**
 
 - GitHub: [@ismartgaurav](https://github.com/ismartgaurav)
 - LinkedIn: [Gaurav Sharma](https://www.linkedin.com/in/ismartgaurav/)
