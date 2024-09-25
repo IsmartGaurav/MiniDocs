@@ -36,6 +36,7 @@ git clone https://github.com/yourusername/minidocs.git
 ![Screenshot 2](https://i.ibb.co/12txWFm/sc2.png)
 ![Screenshot 3](https://i.ibb.co/mBYGdHL/sc3.png)
 ![Mobile Version](https://i.ibb.co/Dfh1WtY/mobile.png)
+![Mobile Version](https://i.ibb.co/M6r379n/mb.png)
 
 ## 🤝 Contributing
 
