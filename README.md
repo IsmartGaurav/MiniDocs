@@ -1,7 +1,5 @@
 # MiniDocs: Simple Note-Taking App
 
-![MiniDocs Logo](link-to-your-logo.png)
-
 ## 📝 About
 
 MiniDocs is a minimalist note-taking application built with Vite and React. It focuses on simplicity and ease of use, providing a clean and efficient way to manage your notes.
@@ -34,10 +32,10 @@ git clone https://github.com/yourusername/minidocs.git
 
 ## 📸 Screenshots
 
-![MiniDocs Screenshot](https://ibb.co/HDxqJT1)
-![Screenshot 2](https://ibb.co/5cgVHbR)
-![Screenshot 3](https://ibb.co/thN4nb7)
-![Mobile Version](https://ibb.co/nM9wmbB)
+![MiniDocs Screenshot](https://i.ibb.co/LzJ1Gdb/sc1.png)
+![Screenshot 2](https://i.ibb.co/12txWFm/sc2.png)
+![Screenshot 3](https://i.ibb.co/mBYGdHL/sc3.png)
+![Mobile Version](https://i.ibb.co/Dfh1WtY/mobile.png)
 
 ## 🤝 Contributing
 
